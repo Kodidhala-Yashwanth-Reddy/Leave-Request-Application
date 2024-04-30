@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FrontEnd",
+    "\\FrontEnd\\leaveRequest",
+    "\\FrontEnd\\leaveRequest\\src",
+    "\\FrontEnd\\leaveRequest\\src\\Components",
+    "\\FrontEnd\\leaveRequest\\src\\Components\\LeaveRequestForm",
+    "\\FrontEnd\\leaveRequest\\src\\Components\\Login",
+    "\\FrontEnd\\leaveRequest\\src\\Components\\UserContext",
+    "\\FrontEnd\\leaveRequest\\src\\Components\\ViewApplicationForm"
+  ],
+  "SelectedNode": "\\FrontEnd\\leaveRequest\\src\\main.jsx",
+  "PreviewInSolutionExplorer": false
+}
